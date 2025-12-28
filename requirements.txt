@@ -5,4 +5,5 @@ seaborn
 ipykernel
 jupyter
 scikit-learn
-imblearn
+imbalanced-learn
+xgboost
